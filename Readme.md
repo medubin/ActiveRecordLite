@@ -1,6 +1,6 @@
 # Active Record Lite
 
-## An object-relational database accessor modeled Ruby n Rails ActiveRecord
+## An object-relational database accessor modeled Ruby on Rails ActiveRecord
 
 ## Features:
 
